@@ -1,4 +1,4 @@
-# AliceTechnoComposer
+# Alice - TechnoComposer
 
 ## Overview
 This project aims to help DJs find suitable techno tracks for her DJ sets using AI. DJs usually spends hours on SoundCloud and YouTube, but maybe it could've been more efficient
