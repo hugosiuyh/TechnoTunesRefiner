@@ -1,7 +1,7 @@
 # AliceTechnoComposer
 
 ## Overview
-This project aims to help my techno DJ friend Alice find suitable techno tracks for her DJ sets using AI. Alice usually spends hours on SoundCloud and YouTube, but due to her increasing academic and job pressures, she’s looking for a more efficient method.
+This project aims to help DJs find suitable techno tracks for her DJ sets using AI. DJs usually spends hours on SoundCloud and YouTube, but maybe it could've been more efficient
 
 ## Objective
 The goal is to finetune the existing MusicGen model using a dataset of songs Alice has previously played, obtained from her USB. This project aims to see if the model can learn Alice's musical preferences and generate tracks that align with her taste.
